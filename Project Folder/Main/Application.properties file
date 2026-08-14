@@ -1,4 +1,0 @@
-spring.application.name=razorpay
-server.port=9099
-razorpay.key.id=rzp_test_TEpR0PYfnwh7C0
-razorpay.key.secret=Y8EXpQf5PtfpT44KO7dlW3lf
